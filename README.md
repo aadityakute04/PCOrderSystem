@@ -114,7 +114,5 @@ Major design principles:
 - **Unit testing first**  
   Every class has a corresponding JUnit test.
 
----
 
-## 📁 Folder Structure
 
